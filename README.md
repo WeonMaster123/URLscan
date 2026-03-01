@@ -2,8 +2,6 @@
 URLscan is an educational project rule based about basic phishing detection techniques in a url.This software is not intended for use in real-world environments.
 It was created for learning and experimentation purposes only.
 
-# How to use
-
 # Can detect:
 - too much - or subdomains
 - IPv4 in the domain
@@ -13,7 +11,7 @@ It was created for learning and experimentation purposes only.
 - shortener in the url
 
 example:
-<img width="1657" height="171" alt="detected" src="https://github.com/user-attachments/assets/6e6db65e-ce94-4edf-a28b-dd8d8bb0c871" />
+<img width="1657" height="171" alt="detected" src="https://github.com/user-attachments/assets/89c75c5f-948e-41f6-895a-9e5b637c5b94" />
 
 # What it doesn't detect.
 This project does not detect:
@@ -23,7 +21,7 @@ This project does not detect:
 - typosquatting or similar techniques 
 
 example:
-<img width="1657" height="171" alt="no_detected" src="https://github.com/user-attachments/assets/92c51e66-5685-4b7b-a4e1-50cff855d7cf" />
+<img width="1657" height="171" alt="no_detected" src="https://github.com/user-attachments/assets/2b69ca54-44f6-4c3d-ab99-4a33821fff05" />
 
 # License
 This project is licensed under the MIT License.
