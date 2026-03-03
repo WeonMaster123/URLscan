@@ -13,7 +13,9 @@ example:
 <img width="1657" height="171" alt="detected" src="https://github.com/user-attachments/assets/89c75c5f-948e-41f6-895a-9e5b637c5b94" />
 
 # How to use 
+```bash
 python3 urlscan.py https://your-url-suspicious.com [flags]
+```
 
 # Flags and system score
 For now, this project includes two optional flags:
