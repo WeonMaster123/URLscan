@@ -8,9 +8,10 @@ It was created for learning and experimentation purposes only.
 - very long domain
 - Whether or not it uses http.
 - shortener in the url
+- some suspicious words
 
 example:
-<img width="1657" height="171" alt="detected" src="https://github.com/user-attachments/assets/89c75c5f-948e-41f6-895a-9e5b637c5b94" />
+<img width="1850" height="177" alt="detected" src="https://github.com/user-attachments/assets/3b2cf3aa-2ef5-4108-b48a-5fd31d3d4298" />
 
 # How to use 
 ```bash
@@ -35,12 +36,13 @@ The final score is also displayed.
 This project does not detect:
 - domain age
 - domain reputation
-- suspicious words
+- other suspicious words
 - typosquatting or similar techniques 
 - WHOIS data
 
 example:
-<img width="1657" height="171" alt="no_detected" src="https://github.com/user-attachments/assets/2b69ca54-44f6-4c3d-ab99-4a33821fff05" />
+<img width="1850" height="177" alt="not_detected" src="https://github.com/user-attachments/assets/c701e91c-cc69-45f7-87b1-2e0e62d98458" />
+
 
 # Installation
 Make sure you have Python 3 installed. Then install dependencies:
