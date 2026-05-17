@@ -25,6 +25,8 @@ this project includes two optional flags:
 
 -ss → Verifies the SSL certificate. If the certificate is invalid (for example, expired), the program returns an error.
 
+-r → “Create an educational report that explains the findings.” 
+
 The scoring system increases the risk score whenever a rule matches. Based on the final score, the URL is classified as: 
 - possible low risk
 - possible medium risk
